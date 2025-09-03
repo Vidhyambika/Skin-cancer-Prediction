@@ -1,4 +1,6 @@
 # Skin-cancer-Prediction
+<img width="939" height="528" alt="image (1)" src="https://github.com/user-attachments/assets/5becf57c-ae08-45a8-aa67-ef32627325df" />
+
 A mini-project developed and submitted as part of my third-year college coursework. This project demonstrates a simple web application that predicts skin diseases and cancer based on user-provided inputs. It is shared here as a learning resource for students and developers interested in healthcare AI applications.
 
 ## License
