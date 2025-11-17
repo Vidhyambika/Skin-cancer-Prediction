@@ -66,5 +66,5 @@ python app.py```
 For detailed information, refer to the [project report](https://github.com/Vidhyambika/Skin-cancer-Prediction/blob/main/skin%20cancer%20prediction%20vidhyambika.pdf).
 
 ## 🧑‍💻 Author  
-**Vidhyambika**  
+**Vidhyambika SR**  
 GitHub: [@Vidhyambika](https://github.com/Vidhyambika)  
